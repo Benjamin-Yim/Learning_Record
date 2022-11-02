@@ -1,2 +1,5 @@
 https://dtolnay.github.io/rust-quiz/1
 非常值得2刷3刷，解释了很多 Rust 的特性和盲点
+
+## 开始学习异步
+异步这块知识底层原理基本差不多，reactor 模式，Future 模式。等入门中后面在做总结
